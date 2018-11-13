@@ -1,1 +1,14 @@
 
+Requests
+
+https://logistics.arcgis.com/arcgis/rest/services/World/OriginDestinationCostMatrix/GPServer/GenerateOriginDestinationCostMatrix/submitJob?origins=%7B%22features%22%3A%5B%7B%22geometry%22%3A%7B%22y%22%3A51.5254%2C%22x%22%3A-0.1891%7D%2C%22attributes%22%3A%7B%22Name%22%3A%22Origin%201%22%2C%22TargetDestinationCount%22%3A2%2C%22Cutoff%22%3A120%2C%22CurbApproach%22%3A0%7D%7D%2C%7B%22geometry%22%3A%7B%22y%22%3A51.5353%2C%22x%22%3A-0.1744%7D%2C%22attributes%22%3A%7B%22Name%22%3A%22Origin%202%22%2C%22TargetDestinationCount%22%3A3%2C%22Cutoff%22%3A90%2C%22CurbApproach%22%3A0%7D%7D%5D%7D%26destinations%3D%7B%22features%22%3A%5B%7B%22geometry%22%3A%7B%22y%22%3A51.5354%2C%22x%22%3A-0.1991%7D%2C%22attributes%22%3A%7B%22Name%22%3A%22Destination%201%22%2C%22CurbApproach%22%3A0%7D%7D%2C%7B%22geometry%22%3A%7B%22y%22%3A51.5458%2C%22x%22%3A-0.1844%7D%2C%22attributes%22%3A%7B%22Name%22%3A%22Destination%202%22%2C%22CurbApproach%22%3A0%7D%7D%5D%7D&token=I1HmLCZ2w5Rwehx1mZAQwjPuvghk_sQSBd9BgPkuqF8Xh8Ef226CHrVjg14hJM7qwyD4RM-KlOqHKGRVfg5A4Tzyayz5Cxf2WHkX8yqWJYnli5DZ70pNJzt0nrpqVgq-Dx1G5KGw9WRFBNlE7eqQ3w..&f=pjson
+
+
+https://logistics.arcgis.com/arcgis/rest/services/World/OriginDestinationCostMatrix/GPServer/GenerateOriginDestinationCostMatrix/submitJob?origins/jobs/ja9afae22ba99482d8dcc2cef92d6f354/results/?token=I1HmLCZ2w5Rwehx1mZAQwjPuvghk_sQSBd9BgPkuqF8Xh8Ef226CHrVjg14hJM7qwyD4RM-KlOqHKGRVfg5A4Tzyayz5Cxf2WHkX8yqWJYnli5DZ70pNJzt0nrpqVgq-Dx1G5KGw9WRFBNlE7eqQ3w..&f=pjson
+
+
+
+Links
+https://developers.arcgis.com/rest/network/api-reference/origin-destination-cost-matrix-service.htm
+
+https://content.screencast.com/users/acheung56/folders/Jing/media/490d7dba-5a41-42c9-aa69-5f0658a40fd3/2018-11-13_1446.png
